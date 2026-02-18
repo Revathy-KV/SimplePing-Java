@@ -1,5 +1,6 @@
 # SimplePing-Java
 
+
 Project Description
 This project demonstrates how to check whether a host (website or IP address) is reachable using Java's InetAddress class.
 The program takes a hostname or IP address as input and checks its connectivity status by sending a request using the isReachable() method.
